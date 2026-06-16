@@ -1,0 +1,35 @@
+env/
+venv/
+.venv/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Chặn các file rác của Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.DS_Store
+.directory
+*.cloud
+*.sync
+
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+*.pth
+*.pt
+*.onnx
+*.tflite
+
+# Dataset/
