@@ -72,11 +72,17 @@ class LightGesture:
                     if class_number != -1:
                         self.status_text = self.signs[class_number]
                         if self.status_text == "light1":
-                            self.light1 = not self.light1
+                            self.light1 = True
+                            self.light2 = False
+                            self.light3 = False
                         elif self.status_text == "light2":
-                            self.light2 = not self.light2
+                            self.light2 = True
+                            self.light1 = False
+                            self.light3 = False
                         elif self.status_text == "light3":
-                            self.light3 = not self.light3
+                            self.light3 = True
+                            self.light1 = False
+                            self.light2 = False
                         elif self.status_text == "turn_off":
                             self.light1 = False
                             self.light2 = False
