@@ -988,3 +988,22 @@ This design choice enables real-time performance without requiring heavy GPU res
 * PyTorch
 * OpenCV
 
+# Author
+
+## Nguyen Thien Quan
+
+AI / Data Science student passionate about:
+
+* Computer Vision
+* NLP
+* Machine Learning
+* Deep Learning
+
+### Connect With Me
+
+* GitHub: `https://github.com/ntq05`
+* LinkedIn: `https://www.linkedin.com/in/ntq05/`
+
+---
+
+If you found this project interesting, feel free to star the repository or connect with me.
